@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I'm Jaswanth, a Graduate student at Purdue University Northwest majoring in Computer Science.
+I love problem-solving, and solving problems with code is what I love to do.
 ![Alt text](https://i.imgur.com/m3rJOcD.jpg)
 
 
