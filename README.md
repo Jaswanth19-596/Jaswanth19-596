@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt text](https://ibb.co/5B3XY7M)
+![Alt text](https://i.imgur.com/m3rJOcD.jpg)
 
 
 <!--
